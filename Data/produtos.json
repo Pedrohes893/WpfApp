@@ -1,0 +1,32 @@
+[
+  {
+    "IdProduto": 1,
+    "NomeProduto": "Pregos",
+    "CodigoProduto": "01022145",
+    "ValorProduto": 50
+  },
+  {
+    "IdProduto": 2,
+    "NomeProduto": "Martelos",
+    "CodigoProduto": "03042145",
+    "ValorProduto": 25
+  },
+  {
+    "IdProduto": 3,
+    "NomeProduto": "Buchas",
+    "CodigoProduto": "05062145",
+    "ValorProduto": 20
+  },
+  {
+    "IdProduto": 4,
+    "NomeProduto": "Roscas",
+    "CodigoProduto": "07082145",
+    "ValorProduto": 50
+  },
+  {
+    "IdProduto": 5,
+    "NomeProduto": "Reboco",
+    "CodigoProduto": "09102145",
+    "ValorProduto": 10
+  }
+]

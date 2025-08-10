@@ -1,0 +1,95 @@
+[
+  {
+    "IdPedido": 1,
+    "IdPessoa": 1,
+    "Produtos": [
+      {
+        "Produto": {
+          "IdProduto": 1,
+          "NomeProduto": "Pregos",
+          "CodigoProduto": "01022145",
+          "ValorProduto": 50
+        },
+        "Quantidade": 2
+      },
+      {
+        "Produto": {
+          "IdProduto": 2,
+          "NomeProduto": "Martelos",
+          "CodigoProduto": "03042145",
+          "ValorProduto": 25
+        },
+        "Quantidade": 1
+      }
+    ],
+    "ValorTotal": 125,
+    "DataVenda": "2025-08-10T14:00:00",
+    "FormaPagamento": 1,
+    "Status": 1
+  },
+  {
+    "IdPedido": 2,
+    "IdPessoa": 1,
+    "Produtos": [
+      {
+        "Produto": {
+          "IdProduto": 3,
+          "NomeProduto": "Buchas",
+          "CodigoProduto": "05062145",
+          "ValorProduto": 20
+        },
+        "Quantidade": 10
+      },
+      {
+        "Produto": {
+          "IdProduto": 5,
+          "NomeProduto": "Reboco",
+          "CodigoProduto": "09102145",
+          "ValorProduto": 10
+        },
+        "Quantidade": 5
+      }
+    ],
+    "ValorTotal": 250,
+    "DataVenda": "2025-08-09T09:30:00",
+    "FormaPagamento": 2,
+    "Status": 2
+  },
+  {
+    "IdPedido": 3,
+    "IdPessoa": 2,
+    "Produtos": [
+      {
+        "Produto": {
+          "IdProduto": 4,
+          "NomeProduto": "Roscas",
+          "CodigoProduto": "07082145",
+          "ValorProduto": 50
+        },
+        "Quantidade": 3
+      },
+      {
+        "Produto": {
+          "IdProduto": 2,
+          "NomeProduto": "Martelos",
+          "CodigoProduto": "03042145",
+          "ValorProduto": 25
+        },
+        "Quantidade": 2
+      },
+      {
+        "Produto": {
+          "IdProduto": 1,
+          "NomeProduto": "Pregos",
+          "CodigoProduto": "01022145",
+          "ValorProduto": 50
+        },
+        "Quantidade": 1
+      }
+    ],
+    "ValorTotal": 275,
+    "DataVenda": "2025-08-08T16:45:00",
+    "FormaPagamento": 3,
+    "Status": 0
+  }
+]

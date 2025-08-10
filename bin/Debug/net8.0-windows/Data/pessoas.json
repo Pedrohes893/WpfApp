@@ -1,0 +1,32 @@
+[
+  {
+    "IdPessoa": 1,
+    "NomePessoa": "Jo\u00E3o da Silva",
+    "NumCpf": "121.762.300-00",
+    "Endereco": "Rua A, 123"
+  },
+  {
+    "IdPessoa": 2,
+    "NomePessoa": "Maria Souza",
+    "NumCpf": "987.654.321-00",
+    "Endereco": "Avenida B, 456"
+  },
+  {
+    "IdPessoa": 3,
+    "NomePessoa": "Pedro Henrique ",
+    "NumCpf": "209.193.380-54",
+    "Endereco": null
+  },
+  {
+    "IdPessoa": 4,
+    "NomePessoa": "Robson",
+    "NumCpf": "786.090.590-65",
+    "Endereco": null
+  },
+  {
+    "IdPessoa": 5,
+    "NomePessoa": "Antenor",
+    "NumCpf": "555.222.333-54",
+    "Endereco": "Rua B, 523"
+  }
+]
